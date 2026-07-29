@@ -1,0 +1,6 @@
+  CHK     include/config/kernel.release
+Cannot use CONFIG_CC_STACKPROTECTOR_STRONG: -fstack-protector-strong not supported by compiler
+make[1]: *** [/home/py/cepheus/Makefile:1388: prepare-compiler-check] Error 1
+make[1]: *** Waiting for unfinished jobs....
+  UPD     include/config/kernel.release
+make: *** [Makefile:155: sub-make] Error 2
